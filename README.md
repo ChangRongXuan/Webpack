@@ -1,2 +1,2 @@
 # Webpack
-webpack note
+webpack DEMO
