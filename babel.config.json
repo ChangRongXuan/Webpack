@@ -1,0 +1,7 @@
+// Babel相關的讀立處理，用於解析JS新語法讓all瀏覽器看得懂
+
+{
+  "presets": ["@babel/preset-env"]
+}
+
+
